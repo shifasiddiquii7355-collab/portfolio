@@ -197,11 +197,11 @@ function App() {
                 </div>
                 <div className="facts__row">
                   <dt>Location</dt>
-                  <dd>Kanpur, India</dd>
+                  <dd>Kanpur, Uttar Pradesh, India</dd>
                 </div>
                 <div className="facts__row facts__row--full">
                   <dt>Focus</dt>
-                  <dd>Front-end · React · Responsive UI</dd>
+                  <dd>Front-End · React · Responsive UI</dd>
                 </div>
               </dl>
               <p className="hero__card-note">
