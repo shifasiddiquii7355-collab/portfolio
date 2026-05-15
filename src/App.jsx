@@ -197,7 +197,7 @@ function App() {
                 </div>
                 <div className="facts__row">
                   <dt>Location</dt>
-                  <dd>Kanpur, India</dd>
+                  <dd>Kanpur, Uttar Pradesh, India</dd>
                 </div>
                 <div className="facts__row facts__row--full">
                   <dt>Focus</dt>
