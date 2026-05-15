@@ -1,0 +1,11 @@
+# Vite builds static files to `dist/`. If Netlify publishes the repo root,
+# visitors get dev index.html (script /src/main.jsx) → blank white screen.
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# SPA fallback: optional; helps if you add client-side routes later
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
